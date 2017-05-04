@@ -1,0 +1,9 @@
+*.html
+_build
+_build_single
+*.so
+*.o
+*.lo
+_images
+*.a
+*.la
